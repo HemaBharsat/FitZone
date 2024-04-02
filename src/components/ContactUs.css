@@ -1,0 +1,27 @@
+.input{
+    display: block;
+    width: 100%;
+    background: #EBECFE;
+    padding: 15px;
+    border: 0;
+    outline: 0;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    resize: none;
+}
+.button {
+    margin-top: 14px;
+    font-size: medium;
+    background-color: #ed6c02;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    min-height: 30px;
+    min-width: 120px;
+}
+
+.button:hover {
+    background-color: #eba76f;
+    transition: 0.7s;
+}
