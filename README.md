@@ -4,6 +4,8 @@ FitZone is a comprehensive fitness website designed to cater to all your health 
 
 ## Demo
 
+https://fit-zone-gym.vercel.app/
+
 ![Hero-section](image.png)
 ![Know-Us](image-1.png)
 ![programs](image-2.png)
