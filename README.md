@@ -4,7 +4,7 @@ FitZone is a comprehensive fitness website designed to cater to all your health 
 
 ## Demo
 
-(![Hero-section](image.png))
+![Hero-section](image.png)
 ![Know-Us](image-1.png)
 ![programs](image-2.png)
 ![Reviews](image-3.png)
